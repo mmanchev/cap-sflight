@@ -2,6 +2,8 @@
 
 This is a sample app for the travel reference scenario, built with the [SAP Cloud Application Programming Model (CAP)](https://cap.cloud.sap) and [SAP Fiori Elements](https://experience.sap.com/fiori-design-web/smart-templates).
 
+testsat
+
 The purpose of this sample app is to:
 * Demonstrate SAP Fiori annotations
 * Demonstrate and compare SAP Fiori features on various stacks (CAP Node.js, CAP Java SDK, ABAP)
